@@ -1,4 +1,4 @@
-## Hi there! Thank you for visiting my site 🙂
+## Hi there! Thank you for dropin by 🙂
 
 I’m a system admin, and this is my blog. I live in Tamilnadu, India. I love computers, driving,  playing and photography.
 
