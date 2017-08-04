@@ -27,7 +27,7 @@ Experienced with a broad range of software, utilities and protocols, including t
 
 ### Experience
 
-> August, 2016 to present: Hewlett Packard Enterprise, Bangalore as
+> August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as
 ITO Svc Delivery Cons III
 
 - Deploy products in different infrastructure such as Jboss, Tomcat, WebSphere, Weblogic, Apache, IIS etc
