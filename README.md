@@ -12,7 +12,8 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 ### Skils
 
 Skilled in the installation, configuration and administration of Microsoft Windows, Linux
-(RHEL, Ubuntu, CentOS),
+(RHEL, Ubuntu, CentOS). 
+
 Experienced with a broad range of software, utilities and protocols, including the following:
 
   - Web layers - Apache, IIS, Nginx, HAProxy, CDN
