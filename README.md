@@ -15,15 +15,15 @@ Skilled in the installation, configuration and administration of Microsoft Windo
 (RHEL, Ubuntu, CentOS),
 Experienced with a broad range of software, utilities and protocols, including the following:
 
- Web layers - Apache, IIS, Nginx, HAProxy, CDN
- App Layer - Tomcat, JBoss, WebLogic, WebSphere
- Mail - SMTP, POP, IMAP, qmail, Sendmail
- Monitoring - Nagios, CloudWatch, Route 53
- Databases - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete database)
- Virtualisation - VMWare VSphere, VCenter, Xen, Hyper-V
- AWS - EC2, S3, ELB, CloudFront, Elastic Cache, RDS, Route 53, Auto Scaling
- SAML - ADFS, Shibboleth, Ping, Mod mellon
- Others - Puppet, Ansible, RunDeck, Logstash, Asgard, ActiveMQ, Redis, Zen Load balancer
+> Web layers - Apache, IIS, Nginx, HAProxy, CDN
+> App Layer - Tomcat, JBoss, WebLogic, WebSphere
+> Mail - SMTP, POP, IMAP, qmail, Sendmail
+> Monitoring - Nagios, CloudWatch, Route 53
+> Databases - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete database)
+> Virtualisation - VMWare VSphere, VCenter, Xen, Hyper-V
+> AWS - EC2, S3, ELB, CloudFront, Elastic Cache, RDS, Route 53, Auto Scaling
+> SAML - ADFS, Shibboleth, Ping, Mod mellon
+> Others - Puppet, Ansible, RunDeck, Logstash, Asgard, ActiveMQ, Redis, Zen Load balancer
 
 ### Contact
  [Write Me](mailto:contact@thiyagarajan.in)
