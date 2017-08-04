@@ -1,10 +1,10 @@
 ## Hi there! Thank you for dropin by 🙂
 
-I’m a system admin, and this is my blog. I live in Tamilnadu, India. I love computers, driving,  playing and photography.
+I’m an IT infrastructure Engineer - Specialized in Designing and maintenence Middleware and Cloud Infrastructure. 
 
-Planning to write something from my work experience about the techniques and “How To guides” as they might help others.
+9+ years of experience in varies skills including Tomcat, Jboss, WebLogic, Websphere App servers, Apache, Nginx and IIS Web Servers, Cloud computing and automation in AWS infrastructure, Linux & Windows server administration and SAML and Monitoring products.
 
-I also like to share some photos (Very few) that shot by me.
+
 
 Feel free to write me your comments and thoughts.
 
