@@ -6,11 +6,7 @@ I’m an IT infrastructure Engineer - Specialized in Client & Server Solutions A
 
 
 
-Feel free to write me your comments and thoughts.
 
-Thanks again.
-
-(Please don’t spam 🙂 )
 
 ### Contact
  [Write Me](mailto:contact@thiyagarajan.in)
