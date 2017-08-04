@@ -77,13 +77,13 @@ $('#gform').on('submit', function(e) {
 </script>
  
  <div class="container">
- <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSc-u_IT4-b8ND8v2THj7Rm3k5yFLk8ufWVcW0NOkAm3j2Spng/viewform?usp=pp_url&entry.2005620554=Name&entry.1045781291=valid@email.com&entry.1166974658&entry.839337160=You+Message+to+Me" target="hidden_iframe" onsubmit="submitted=true;">
+ <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/a/thiyagarajan.in/forms/d/e/1FAIpQLSc-u_IT4-b8ND8v2THj7Rm3k5yFLk8ufWVcW0NOkAm3j2Spng/viewform?usp=pp_url&entry.2005620554=Name&entry.1045781291=contact@thiyagarajan.in&entry.1166974658=1234567890&entry.839337160=Your+Message" target="hidden_iframe" onsubmit="submitted=true;">
   Name:<br>
   <input type="text" name="entry.810989529" id="entry.2005620554"><br>
   EMail:<br>
   <input type="text" name="entry.463380756" id="entry.1045781291"><br>
   Phone:<br>
-  <input type="text" name="entry.810989529" id="entry.1045781291"><br>
+  <input type="text" name="entry.810989529" id="entry.1166974658"><br>
   Message:<br>
   <input type="textarea" name="entry.810989529" id="entry.839337160"><br>
   <input type="submit" value="Submit">
