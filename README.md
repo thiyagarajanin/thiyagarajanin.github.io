@@ -9,7 +9,7 @@ I’m an IT infrastructure Engineer - Specialized in Client & Server Solutions A
 BCA 2005-2008,
 Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
-### Skils
+### Skills
 
 Skilled in the installation, configuration and administration of Microsoft Windows, Linux
 (RHEL, Ubuntu, CentOS). 
