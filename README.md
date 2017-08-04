@@ -13,4 +13,4 @@ Thanks again.
 (Please don’t spam 🙂 )
 
 ### Contact
- [contact support](contact@thiyagarajan.in)
+ [Write Me](mailto:contact@thiyagarajan.in)
