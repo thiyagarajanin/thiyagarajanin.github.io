@@ -1,4 +1,4 @@
-, v## Hi there! Thank you for dropin by 🙂
+## Hi there! Thank you for dropin by 🙂
 
 I’m an IT infrastructure Engineer - Specialized in Client & Server Solutions Architecture, IT Operations Management, Design & Maintenance - Middleware and Cloud Infrastructure, Project Management, Technical Support & Consultancy. 
 
