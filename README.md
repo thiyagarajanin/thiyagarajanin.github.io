@@ -16,10 +16,10 @@ Skilled in the installation, configuration and administration of Microsoft Windo
 
 Experienced with a broad range of software, utilities and protocols, including the following:
 
-  - Web layers - Apache, IIS, Nginx, HAProxy, CDN
+  - Web Layer - Apache, IIS, Nginx, HAProxy, CDN
   - App Layer - Tomcat, JBoss, WebLogic, WebSphere
   - Mail - SMTP, POP, IMAP, qmail, Sendmail  - Monitoring - Nagios, CloudWatch, Route 53
-  - Databases - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
+  - Database - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
   - Virtualisation - VMWare VSphere, VCenter, Xen, Hyper-V
   - AWS - EC2, S3, ELB, CloudFront, Elastic Cache, RDS, Route 53, Auto Scaling
   - SAML - ADFS, Shibboleth, Ping, Mod_mellon
