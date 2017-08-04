@@ -67,15 +67,6 @@ Network Administrator
 ### Contact
  [Write Me](mailto:contact@thiyagarajan.in)
  
- <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript">var submitted=false;</script>
-<script type="text/javascript">
-$('#gform').on('submit', function(e) {
-  $('#gform *').fadeOut(2000);
-  $('#gform').prepend('Your submission has been processed...');
-  });
-</script>
- 
  <div class="container">
  <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSc-u_IT4-b8ND8v2THj7Rm3k5yFLk8ufWVcW0NOkAm3j2Spng/formResponse?usp=pp_url&entry.2005620554=Name&entry.1045781291=contact@thiyagarajan.in&entry.1166974658=1234567890&entry.839337160=Your+Message" target="hidden_iframe" onsubmit="submitted=true;">
   Name:<br>
@@ -90,4 +81,13 @@ $('#gform').on('submit', function(e) {
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+ <script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
 </div>
