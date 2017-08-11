@@ -4,6 +4,7 @@ title:  "WebSphere Application Server to API certificate based authentication"
 permalink: websphere-application-server-to-api-certificate-based-authentication
 date:   2017-03-21 16:16:01 -0600
 categories: Application Server, Middleware, Server Admin, WebSphere
+published: true
 ---
 
 ##WebSphere Application Server to API certificate based authentication
