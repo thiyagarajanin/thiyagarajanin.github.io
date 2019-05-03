@@ -36,7 +36,7 @@ Lead - CloudOps Engineer
 - Support and maintain global application environments
 - Design and maintain production monitoring systems
 - Implement and maintain CI/CD system
-- Automate common, repeatable tasks
+- Automate common and repeatable tasks
 
 > August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as
 ITO Svc Delivery Cons III
