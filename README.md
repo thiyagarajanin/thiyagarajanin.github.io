@@ -18,14 +18,25 @@ Experienced with a broad range of software, utilities and protocols, including t
 
   - Web Layer - Apache, IIS, Nginx, HAProxy, CDN
   - App Layer - Tomcat, JBoss, WebLogic, WebSphere
-  - Mail - SMTP, POP, IMAP, qmail, Sendmail  - Monitoring - Nagios, CloudWatch, Route 53
+  - Mail - SMTP, POP, IMAP, qmail, Sendmail  
+  - Monitoring - Nagios, CloudWatch, Route 53
   - Database - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
   - Virtualisation - VMWare VSphere, VCenter, Xen, Hyper-V
-  - AWS - EC2, S3, ELB, CloudFront, Elastic Cache, RDS, Route 53, Auto Scaling
+  - Public Cloud - AWS, Google Cloud Platform, Azure
   - SAML - ADFS, Shibboleth, Ping, Mod_mellon
-  - Others - Puppet, Ansible, RunDeck, Logstash, Asgard, ActiveMQ, Redis, Zen Load balancer
+  - CI/CD - Ansible, RunDeck, Jenkins, Logstash
+  - Others - Security Monkey, Asgard, ActiveMQ, Redis, Zen Load balancer
 
 ### Experience
+
+> April, 2017 to Present: Vanenburg Software, Coimbatore as
+Lead - CloudOps Engineer
+
+- Planning and Designing secure and efficient infrastructure
+- Support and maintain global application environments
+- Design and maintain production monitoring systems
+- Impliment and maintain CI/CD system
+- Automate common, repeatable tasks
 
 > August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as
 ITO Svc Delivery Cons III
