@@ -35,7 +35,7 @@ Lead - CloudOps Engineer
 - Planning and Designing secure and efficient infrastructure
 - Support and maintain global application environments
 - Design and maintain production monitoring systems
-- Impliment and maintain CI/CD system
+- Implement and maintain CI/CD system
 - Automate common, repeatable tasks
 
 > August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as
