@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+  name: Thiyagarajan Karuppaiah
+  tagline: Techi. Athlete
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: 2mrt
+    github:  thiyagarajanin
+    linkedIn: in/2thiyagu # format: locale/username
