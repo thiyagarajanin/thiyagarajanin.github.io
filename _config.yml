@@ -12,7 +12,7 @@ plainwhite:
     github:  thiyaguin
     linkedIn: in/2thiyagu
     # rss: rss
-# Build settings
+
 markdown: kramdown
 show_excerpts: true
 plugins:
