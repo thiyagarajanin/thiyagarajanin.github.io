@@ -10,7 +10,6 @@ plainwhite:
     twitter: 2mrt
     github:  thiyaguin
     linkedIn: in/2thiyagu
-    # rss: rss
 
 markdown: kramdown
 show_excerpts: true
