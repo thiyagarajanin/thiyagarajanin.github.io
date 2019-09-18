@@ -10,28 +10,24 @@ BCA 2005-2008,
 Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Skills
-
-Skilled in the installation, configuration and administration of Microsoft Windows, Linux (RHEL, Ubuntu, CentOS). 
-
-Experienced with a broad range of software, utilities and protocols, including the following:
-
-  - Web Layer - Apache, IIS, Nginx, HAProxy, CDN
-  - App Layer - Tomcat, JBoss, WebLogic, WebSphere
-  - Mail - SMTP, POP, IMAP, qmail, Sendmail  
-  - Monitoring - Nagios, CloudWatch, Route 53
-  - Database - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
-  - Virtualisation - VMWare VSphere, VCenter, Xen, Hyper-V
-  - Public Cloud - AWS, Google Cloud Platform, Azure
-  - SAML - ADFS, Shibboleth, Ping, Mod_mellon
-  - CI/CD - Ansible, RunDeck, Jenkins, Logstash
-  - Others - Security Monkey, Asgard, ActiveMQ, Redis, Zen Load balancer
+  - AWS, GCP and G Suite, Azure
+  - VMWare VSphere, VCenter, Hyper-V
+  - Linux, Windows
+  - Terraform, Ansible, RunDeck, Jenkins, Logstash
+  - Python, Shell, Batch
+  - Apache, IIS, Nginx, HAProxy, CDN
+  - Tomcat, JBoss, WebLogic, WebSphere
+  - SMTP, POP, IMAP, qmail, Sendmail  
+  - Nagios, CloudWatch, Route 53, Stackdriver, SecurityMonkey
+  - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)  
+  - ADFS, Shibboleth
 
 ### Experience
 
 > April, 2017 to Present: Vanenburg Software, Coimbatore as
 Lead - CloudOps Engineer
 
-- Planning and Designing secure and efficient infrastructure
+- Planning and Designing secure and efficient infrastructure - On-premises and Cloud
 - Support and maintain global application environments
 - Design and maintain production monitoring systems
 - Implement and maintain CI/CD system
