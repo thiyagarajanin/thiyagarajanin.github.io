@@ -1,8 +1,8 @@
 ## Hello there! Thanks for dropin 🙂
 
-I’m an IT Infrastructure Engineer - Specialized in Client & Server Solutions Architecture, IT Operations Management, Design & Maintenance - Middleware and Cloud Infrastructure, Project Management, Technical Support & Consultancy. 
+I’m an IT Ops Engineer - Specialized in On-premises and Cloud Operations and Management, Product delivery, Maintenance, Technical Support & Consultancy. 
 
-11+ years of experience in varies skills including Tomcat, Jboss, WebLogic, Websphere App servers, Apache, Nginx and IIS Web Servers, Cloud computing and automation in AWS infrastructure, Linux & Windows server administration and SAML and Monitoring applications.
+11+ years of experience in Middleware products, On-premises and Cloud Infrastructure design, security and  maintenance.
 
 ### Education
 
@@ -11,8 +11,7 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Skills
 
-Skilled in the installation, configuration and administration of Microsoft Windows, Linux
-(RHEL, Ubuntu, CentOS). 
+Skilled in the installation, configuration and administration of Microsoft Windows, Linux (RHEL, Ubuntu, CentOS). 
 
 Experienced with a broad range of software, utilities and protocols, including the following:
 
@@ -77,28 +76,3 @@ Network Administrator
 
 ### Contact
  [Write Me](mailto:contact@thiyagarajan.in)
- 
- <div class="container">
- <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSc-u_IT4-b8ND8v2THj7Rm3k5yFLk8ufWVcW0NOkAm3j2Spng/formResponse?usp=pp_url&entry.2005620554=Name&entry.1045781291=contact@thiyagarajan.in&entry.1166974658=1234567890&entry.839337160=Your+Message" target="hidden_iframe" onsubmit="submitted=true;">
-  Name:<br>
-  <input type="text" name="entry.2005620554" id="entry.2005620554"><br>
-  EMail:<br>
-  <input type="text" name="entry.1045781291" id="entry.1045781291"><br>
-  Phone:<br>
-  <input type="text" name="entry.1166974658" id="entry.1166974658"><br>
-  Message:<br>
-  <input type="text" name="entry.839337160" id="entry.839337160"><br>
-  <input type="submit" value="Submit">
-</form>
-
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-
- <script src="assets/js/jquery.min.js"></script>
-<script type="text/javascript">var submitted=false;</script>
-<script type="text/javascript">
-$('#gform').on('submit', function(e) {
-  $('#gform *').fadeOut(2000);
-  $('#gform').prepend('Your submission has been processed...');
-  });
-</script>
-</div>
