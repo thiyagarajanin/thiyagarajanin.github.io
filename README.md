@@ -24,7 +24,7 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Experience
 
-> April, 2017 to Present: Vanenburg Software, Coimbatore as
+** April, 2017 to Present: Vanenburg Software, Coimbatore as
 Lead - CloudOps Engineer
 
 - Planning and Designing secure and efficient infrastructure - On-premises and Cloud
