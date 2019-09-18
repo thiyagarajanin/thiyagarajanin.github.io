@@ -1,9 +1,10 @@
+remote_theme: thelehhman/plainwhite-jekyll
+
 plainwhite:
   name: Thiyagarajan Karuppaiah
   tagline: Techi. Athlete
   date_format: "%b %-d, %Y"
-  analytics_id: UA-127004425-1
-  disqus_shortname: thelehhman
+  disqus_shortname: Thiyagu
 
   # generate social links in footer
   social_links:
@@ -13,7 +14,6 @@ plainwhite:
     # rss: rss
 # Build settings
 markdown: kramdown
-remote_theme: thelehhman/plainwhite-jekyll
 show_excerpts: true
 plugins:
   - jekyll-feed
