@@ -26,8 +26,7 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Experience
 
-#### April, 2017 to Present: Vanenburg Software, Coimbatore as
-#### Lead - CloudOps Engineer
+#### April, 2017 to Present: Vanenburg Software, Coimbatore as "Lead - CloudOps Engineer"
 
 - Planning and Designing secure and efficient infrastructure - On-premises and Cloud
 - Support and maintain global application environments
@@ -35,15 +34,13 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 - Implement and maintain CI/CD system
 - Automate common and repeatable tasks
 
-#### August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as
-#### ITO Svc Delivery Cons III
+#### August, 2016 to April 2017: Hewlett Packard Enterprise, Bangalore as "ITO Svc Delivery Cons III"
 
 - Deploy products in different infrastructure such as Jboss, Tomcat, WebSphere, Weblogic, Apache, IIS etc
 - Automate Deployment and Maintenance process using Puppet, Shell and Ansible
 - Performance tuning and high availability support
 
-#### January, 2011 to July 2016: Exterro R&D Pvt. Ltd., Coimbatore as
-#### Sr. Infrastructure and Deployment Engineer
+#### January, 2011 to July 2016: Exterro R&D Pvt. Ltd., Coimbatore as "Sr. Infrastructure and Deployment Engineer"
 
 - Planning and Designing secure and efficient infrastructure
 - Deploy products in different infrastructure such as Jboss, Tomcat, WebSphere, Weblogic, Apache, IIS etc.
@@ -53,15 +50,13 @@ Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 - Successful implementation of SAML in SaaS to support multi tenancy
 - Received multiple awards from client for successful efficient implementations
 
-#### August, 2010 to January, 2011: Aumega Networks Pvt Ltd., Bangalore as
-#### Production Support Engineer.
+#### August, 2010 to January, 2011: Aumega Networks Pvt Ltd., Bangalore as "Production Support Engineer"
 
 - Install, configure and maintained the secure Windows and Linux file web and mail server
 - Installed, configured and maintained Windows and Linux desktops
 - Assembled, Installed and maintained the secure computer and peripherals
 
-#### May, 2008 to August, 2010: Planettutor Learning Solutions India Pvt. Ltd., Coimbatore as
-#### Network Administrator
+#### May, 2008 to August, 2010: Planettutor Learning Solutions India Pvt. Ltd., Coimbatore as "Network Administrator"
 
 - Configured, deployed, maintained Secure Wired and wireless Network using Routers, Modems, and Switches
 - Install, configure and maintained the secure Windows and Linux file web and mail server
