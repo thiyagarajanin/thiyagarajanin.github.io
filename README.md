@@ -2,12 +2,11 @@
 
 I’m an IT Ops Engineer - Specialized in On-premises and Cloud Operations and Management, Product delivery, Maintenance, Technical Support & Consultancy. 
 
-11+ years of experience in Middleware products, On-premises and Cloud Infrastructure design, security and  maintenance.
+11+ years of experience in Middleware products, On-premises and Cloud Infrastructure design, deployment, security and  maintenance.
 
 ### Education
 
-BCA 2005-2008,
-Sankara College of Science and Commerce, Affiliated to Bharathiar University.
+BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Skills
 
