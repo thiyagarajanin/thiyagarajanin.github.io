@@ -10,8 +10,10 @@ BCA 2005-2008,
 Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
 ### Skills
+
   - AWS, GCP and G Suite, Azure
   - VMWare VSphere, VCenter, Hyper-V
+  - Docker, kubernetes
   - Linux, Windows
   - Terraform, Ansible, RunDeck, Jenkins, Logstash
   - Python, Shell, Batch
