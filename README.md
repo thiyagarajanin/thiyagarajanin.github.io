@@ -10,7 +10,8 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 ### Skills
 
-  - AWS, GCP and G Suite, Azure
+  - GCP - GCE, GKE, GAE, Cloud Storage, Cloud SQL, Memory Store, VPC, Stackdriver, Cloud Build etc. 
+  - AWS - EC2, EKS, Batch, S3, EFS, VPC, Direct Connect, Cloudfront, Route53, RDS, CloudWatch, CloudFormation, IAM, GaurdDuty etc.
   - VMWare VSphere, VCenter, Hyper-V
   - Docker, kubernetes
   - Linux, Windows
