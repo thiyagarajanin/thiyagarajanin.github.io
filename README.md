@@ -10,19 +10,18 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 ### Skills
 
-  - GCP : GCE, GKE, GAE, Cloud Storage, Cloud SQL, Memory Store, VPC, Stackdriver, Cloud Build etc. 
-  - AWS : EC2, EKS, Batch, S3, EFS, VPC, Direct Connect, Cloudfront, Route53, RDS, CloudWatch, CloudFormation, IAM, GaurdDuty etc.
+  - GCP - GCE, GKE, GAE, Cloud Storage, Cloud SQL, Memory Store, VPC, Stackdriver, Cloud Build etc. 
+  - AWS - EC2, EKS, Batch, S3, EFS, VPC, Direct Connect, Cloudfront, Route53, RDS, CloudWatch, CloudFormation, IAM, Gaurd Duty, SES etc.
   - VMWare VSphere, VCenter, Hyper-V
   - Docker, kubernetes
-  - Terraform, Ansible, RunDeck, Jenkins, Logstash (ELK Stack), Kubeflow
+  - Ansible, Terraform, RunDeck, Jenkins, Logstash (ELK Stack), Kubeflow
   - Linux, Windows
   - Python, Shell, Batch
-  - Apache, IIS, Nginx, HAProxy, CDN
+  - Apache HTTP, IIS, Nginx, HAProxy
   - Tomcat, JBoss, WebLogic, WebSphere
-  - SMTP, POP, IMAP, qmail, Sendmail  
+  - Hbase, Solr, Redis, ActiveMQ, MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
   - Nagios, CloudWatch, Route 53, Stackdriver, SecurityMonkey
-  - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)  
-  - ADFS, Shibboleth
+  - SAML - ADFS, Shibboleth
 
 ### Experience
 
