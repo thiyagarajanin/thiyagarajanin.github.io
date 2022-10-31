@@ -2,19 +2,23 @@
 
 I’m an IT Ops Engineer - Specialized in On-premises and Cloud Operations and Management, Product delivery, Maintenance, Technical Support & Consultancy. 
 
-11+ years of experience in Middleware products, On-premises and Cloud Infrastructure design, deployment, security and  maintenance.
+14+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
 
 ### Education
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
+### Certification
+
+Google Cloud Certified "Professional Cloud Architect" 
+
 ### Skills
 
-  - AWS, GCP and G Suite, Azure
+  - GCP, AWS, Azure
   - VMWare VSphere, VCenter, Hyper-V
   - Docker, kubernetes
   - Linux, Windows
-  - Terraform, Ansible, RunDeck, Jenkins, Logstash
+  - Terraform, Ansible, RunDeck, Jenkins, ELK Stack, GitLab
   - Python, Shell, Batch
   - Apache, IIS, Nginx, HAProxy, CDN
   - Tomcat, JBoss, WebLogic, WebSphere
@@ -67,4 +71,4 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 
 ### Contact
- [Write Me](mailto:contact@thiyagarajan.in)
+ [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
