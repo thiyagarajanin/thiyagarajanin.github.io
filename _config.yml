@@ -4,7 +4,8 @@ email: contact@thiyagarajan.in
 description: > # this means to ignore newlines until "show_exerpts:"
   IT Ops Engineer - Specialized in On-premises and Cloud Operations and Management, Product delivery, Maintenance, Technical Support & Consultancy.
   
-theme: plainwhite-jekyll
+#theme: plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Thiyagarajan Karuppaiah
