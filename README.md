@@ -1,6 +1,6 @@
 ## Hello there! Thanks for dropin 🙂
 
-I’m an Cloud Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
+I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
 15+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
 
