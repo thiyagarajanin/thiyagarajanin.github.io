@@ -1,27 +1,31 @@
 ## Hello there! Thanks for dropin 🙂
 
-I’m an IT Ops Engineer - Specialized in On-premises and Cloud Operations and Management, Product delivery, Maintenance, Technical Support & Consultancy. 
+I’m an Cloud Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
-11+ years of experience in Middleware products, On-premises and Cloud Infrastructure design, deployment, security and  maintenance.
+14+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
 
 ### Education
 
 BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar University.
 
+### Certification
+
+Google Cloud Certified "Professional Cloud Architect" 
+
 ### Skills
 
-  - GCP - GCE, GKE, GAE, Cloud Storage, Cloud SQL, Memory Store, VPC, Stackdriver, Cloud Build etc. 
-  - AWS - EC2, EKS, Batch, S3, EFS, VPC, Direct Connect, Cloudfront, Route53, RDS, CloudWatch, CloudFormation, IAM, Gaurd Duty, SES etc.
+  - GCP, AWS, Azure
   - VMWare VSphere, VCenter, Hyper-V
   - Docker, kubernetes
-  - Ansible, Terraform, RunDeck, Jenkins, Logstash (ELK Stack), Kubeflow
   - Linux, Windows
+  - Terraform, Ansible, RunDeck, Jenkins, ELK Stack, GitLab
   - Python, Shell, Batch
-  - Apache HTTP, IIS, Nginx, HAProxy
+  - Apache, IIS, Nginx, HAProxy, CDN
   - Tomcat, JBoss, WebLogic, WebSphere
-  - Hbase, Solr, Redis, ActiveMQ, MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)
+  - SMTP, POP, IMAP, qmail, Sendmail  
   - Nagios, CloudWatch, Route 53, Stackdriver, SecurityMonkey
-  - SAML - ADFS, Shibboleth
+  - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)  
+  - ADFS, Shibboleth
 
 ### Experience
 
@@ -67,4 +71,4 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 
 ### Contact
- [Write Me](mailto:contact@thiyagarajan.in)
+ [Write Me](mailto:thiyagarajan.karuppaiah@gmail.com)
