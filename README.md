@@ -29,7 +29,7 @@ Google Cloud Certified "Professional Cloud Architect"
 
 ### Experience
 
-#### April, 2017 to Present: Vanenburg Software, Coimbatore as "Lead - CloudOps Engineer"
+#### April, 2017 to Present: Vanenburg Software, Coimbatore as "Cloud Architect"
 
 - Planning and Designing secure and efficient infrastructure - On-premises and Cloud
 - Support and maintain global application environments
