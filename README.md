@@ -14,18 +14,17 @@ Google Cloud Certified "Professional Cloud Architect"
 
 ### Skills
 
-  - GCP, AWS, Azure
-  - VMWare VSphere, VCenter, Hyper-V
-  - Docker, kubernetes
-  - Linux, Windows
-  - Terraform, Ansible, RunDeck, Jenkins, ELK Stack, GitLab
-  - Python, Shell, Batch
-  - Apache, IIS, Nginx, HAProxy, CDN
-  - Tomcat, JBoss, WebLogic, WebSphere
-  - SMTP, POP, IMAP, qmail, Sendmail  
-  - Nagios, CloudWatch, Route 53, Stackdriver, SecurityMonkey
-  - MySQL, MSSQL, Oracle (Basic Administration - Create, Backup, Restore, Delete)  
-  - ADFS, Shibboleth
+- GCP, AWS
+  - Architecting Hybrid Cloud Infrastructure 
+  - Hub and Spoke VPC 
+  - CIS, SOC2 and GDPR Compliant 
+- VMWare VSphere, VCenter, Hyper-V
+- Docker, kubernetes
+- Linux, Windows
+- CI/CD, Terraform, Ansible, Jenkins, ELK Stack, GitLab
+- Python, Shell, Batch
+- Apache, IIS, Nginx, HAProxy, CDN
+- Tomcat, JBoss, WebLogic, WebSphere
 
 ### Experience
 
