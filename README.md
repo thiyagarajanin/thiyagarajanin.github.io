@@ -2,7 +2,7 @@
 
 I’m an Cloud Architect - Specialized in Public and Hybrid Cloud Architecture Design, Operations, Technical Support & Consultancy. 
 
-15+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
+16+ years of experience in Cloud and On-premises Infrastructure design, deployment, security and maintenance.
 
 ### Education
 
@@ -15,13 +15,15 @@ Google Cloud Certified "Professional Cloud Architect"
 ### Skills
 
 - GCP, AWS
-  - Architecting Hybrid Cloud Infrastructure 
-  - Hub and Spoke VPC 
+  - Architecting Hybrid Cloud Infrastructure
+  - Landing Zone
+  - Hub and Spoke 
   - CIS, SOC2 and GDPR Compliant 
 - VMWare VSphere, VCenter, Hyper-V
 - Docker, kubernetes
 - Linux, Windows
-- CI/CD, Terraform, Ansible, Jenkins, ELK Stack, GitLab
+- CI/CD, Terraform, Ansible, Jenkins, ELK Stack, GitLab, GitHub
+- Prowler, Checkov
 - Python, Shell, Batch
 - Apache, IIS, Nginx, HAProxy, CDN
 - Tomcat, JBoss, WebLogic, WebSphere
