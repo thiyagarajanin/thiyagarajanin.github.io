@@ -12,6 +12,8 @@ BCA 2005-2008, Sankara College of Science and Commerce, Affiliated to Bharathiar
 
 Google Cloud Certified "Professional Cloud Architect" 
 
+Amazon Web Services Certified "Solutions Architect – Associate"
+
 ### Skills
 
 - GCP, AWS
@@ -19,10 +21,9 @@ Google Cloud Certified "Professional Cloud Architect"
   - Landing Zone
   - Hub and Spoke 
   - CIS, SOC2 and GDPR Compliant 
-- VMWare VSphere, VCenter, Hyper-V
 - Docker, kubernetes
 - Linux, Windows
-- CI/CD, Terraform, Ansible, Jenkins, ELK Stack, GitLab, GitHub
+- CI/CD, Terraform, Ansible, Jenkins, GitLab, GitHub, ELK Stack
 - Prowler, Checkov
 - Python, Shell, Batch
 - Apache, IIS, Nginx, HAProxy, CDN
